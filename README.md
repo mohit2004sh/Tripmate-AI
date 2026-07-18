@@ -157,4 +157,5 @@ Contributions are welcome. If you want to improve the app, add new travel featur
 
 ## Acknowledgments
 
-This project is built with the help of modern LLM tooling, MCP integrations, and travel APIs. It is intended as a practical example of combining LangGraph agents with real-world applications.
+
+
